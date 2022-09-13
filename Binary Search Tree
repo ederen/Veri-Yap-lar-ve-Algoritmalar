@@ -1,0 +1,19 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+1.İlk eleman 7 yi seçelim.
+2. ikinci eleman 5, 7 den küçük olduğundan solda olacak. 
+3. üçüncü eleman 1 7 den küçük, 5 den de küçük en sola.
+4. 8, 7 den büyük 7 nin sağına
+5. 3 7 den küçük 7 nün soluna, 5 den küçük 5in solune, 1 den büyük 1in sağına
+6. 6,7 den küçük soluna, 5 den büyük sağına
+7. 0 7 den küçük soluna, 5 den küçük soluna, 1 den küçük soluna
+8. 9 7 den büyük sağına, 8 den büyük sağına
+9.  4 7 den küçük sola, 4 den küçük sola, 1 den büyük sağa, 3 den büyük sağa
+10. 2, 7den küçük sola, 5 den küçük sola, 1 den büyük sağa, 3 den küçük sola yazılır.
+
+
+               7
+          5        8
+      1      6        9
+   0    3   
+       2  4
