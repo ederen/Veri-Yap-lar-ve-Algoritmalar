@@ -1,2 +1,2 @@
-# Insertion Sort Project
+# veriyapilarivealgorimlar
 www.patika.dev
