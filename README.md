@@ -1,1 +1,2 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# Insertion Sort Project
+www.patika.dev
